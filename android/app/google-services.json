@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "938075311932",
+    "firebase_url": "https://tttmessaging.firebaseio.com",
+    "project_id": "tttmessaging",
+    "storage_bucket": "tttmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938075311932:android:7d170a5b340e26a6d2d839",
+        "android_client_info": {
+          "package_name": "com.eduapplearnreg.regapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938075311932-6asmdek46askg7qp9gth5otriupnsnb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjUjtSMaoaesdjuk95xSkHTT9PbMzRGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938075311932-6asmdek46askg7qp9gth5otriupnsnb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938075311932-lijulbdfl34rdspq3hsfupm4705pg7ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.regapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938075311932:android:f57603e04214b6c8d2d839",
+        "android_client_info": {
+          "package_name": "com.edulearnapp.studentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938075311932-6asmdek46askg7qp9gth5otriupnsnb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjUjtSMaoaesdjuk95xSkHTT9PbMzRGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938075311932-6asmdek46askg7qp9gth5otriupnsnb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938075311932-lijulbdfl34rdspq3hsfupm4705pg7ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.regapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938075311932:android:93b29f9e55a1d0e1d2d839",
+        "android_client_info": {
+          "package_name": "com.example.teach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938075311932-6asmdek46askg7qp9gth5otriupnsnb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjUjtSMaoaesdjuk95xSkHTT9PbMzRGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938075311932-6asmdek46askg7qp9gth5otriupnsnb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938075311932-lijulbdfl34rdspq3hsfupm4705pg7ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.regapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938075311932:android:dfc8f5fde297ad56d2d839",
+        "android_client_info": {
+          "package_name": "com.example.testtt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938075311932-6asmdek46askg7qp9gth5otriupnsnb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbjUjtSMaoaesdjuk95xSkHTT9PbMzRGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938075311932-6asmdek46askg7qp9gth5otriupnsnb1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938075311932-lijulbdfl34rdspq3hsfupm4705pg7ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.regapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
